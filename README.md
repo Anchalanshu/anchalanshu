@@ -28,9 +28,8 @@ I enjoy creating useful software, exploring data-driven solutions, and designing
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu22072004@gmail.com)
 ---
-## 🛠 Tech Stack
 
-<h2>🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
