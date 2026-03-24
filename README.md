@@ -24,7 +24,7 @@ I enjoy creating useful software, exploring data-driven solutions, and designing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anchal-chauhan-b034b82a3/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)]((https://anchalchauhan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://anchalchauhan.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anshu22072004@gmail.com)
 ---
