@@ -26,21 +26,23 @@ I enjoy creating useful software, exploring data-driven solutions, and designing
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://anchalchauhan.vercel.app/)
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anshu22072004@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu22072004@gmail.com)
 ---
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<h2>🛠 Tech Stack</h2>
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+<p align="left">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+<p align="left">
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+</p>
 
 ## 💻 Tech Stack
 
