@@ -22,10 +22,25 @@ I enjoy creating useful software, exploring data-driven solutions, and designing
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/anchal-chauhan-b034b82a3)  
-[GitHub](https://github.com/Anchalanshu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anchal-chauhan-b034b82a3/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)]((https://anchalchauhan.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anshu22072004@gmail.com)
 ---
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
 ## 💻 Tech Stack
 
